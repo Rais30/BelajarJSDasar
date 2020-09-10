@@ -50,12 +50,12 @@
 // keliling=
 // luas =
 
-var diameter = 9;
-var keliling = 3.14
-var kelilinglingkaran = keliling * diameter
-document.write("hasil dari keliling lingkaran adalah " + kelilinglingkaran)
-document.write("<br>")
+// var diameter = 9;
+// var keliling = 3.14
+// var kelilinglingkaran = keliling * diameter
+// document.write("hasil dari keliling lingkaran adalah " + kelilinglingkaran)
+// document.write("<br>")
 
-var luas = 1/4
-var luaslingkaran = luas * keliling * diameter
-document.write("hasil dari luas lingkaran adalah " + luaslingkaran)
+// var luas = 1/4
+// var luaslingkaran = luas * keliling * diameter
+// document.write("hasil dari luas lingkaran adalah " + luaslingkaran)
