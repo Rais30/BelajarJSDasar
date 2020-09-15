@@ -1,0 +1,16 @@
+
+// var arraySiswa = [
+//     { nama: "Ayub", divisi: "Web-Dev" },
+//     { nama: "Yusuf", divisi: "Mobile-Dev" },
+//     { nama: "Faishal", divisi: "Mobile-Dev" },
+//     { nama: "Yamin", divisi: "Mobile-Dev" },
+//     { nama: "Rais", divisi: "Mobile-Dev" },
+// ]
+
+// // for (var i = 0; i < arraySiswa.length; i += 1) {
+// //     document.write("nama: ", arraySiswa[i].nama, ", jurusan :", arraySiswa[i].divisi, "<br>");
+// // }
+
+// arraySiswa.map((im, iex) => {
+//     document.write(im.nama, iex);
+// })
