@@ -4,9 +4,10 @@ var backend = ["syofyan ", "sidik ", "roihan "]
 var mobile = ["hafif ", "wandi ", "ayub "]
 
 backend.shift()
+backend.unshift("ayub ")
 mobile.pop()
 mobile.push("syofyan ")
-backend.unshift("ayub ")
+
 
 var pondok = [mobile.concat(backend)]
 
